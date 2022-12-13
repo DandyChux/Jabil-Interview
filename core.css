@@ -1,0 +1,14 @@
+table {
+    border-spacing: 1.5rem;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+th, tr {
+    padding: 0.5rem;
+}
+
+tr {
+    border: 1px solid black;
+    outline: thin solid black;
+}
